@@ -1,7 +1,7 @@
 <template>
   <div>
     Nuxt module playground!
-    455
+    Testing
   </div>
 </template>
 
